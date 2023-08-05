@@ -1,0 +1,159 @@
+Lab 1 : Socket Programming 
+
+Khushal Damor (B21AI018)
+
+1) TEST 1 ( Successful )
+
+Compile and execute server1.cpp 
+Compile and execute client.cpp
+
+Send the following queries to the math server :
+
+34 + 44
+54 - 12
+14 * 31
+98 / 19
+
+Validate the results returned by the math server
+
+2) TEST 2 ( Successful )
+
+Compile and execute server1.cpp 
+Compile and execute client.cpp ( 1st Client )
+
+Send the following query to the math server : ( 1st Client )
+
+3 + 7
+
+Validate the result returned by the math server ( 1st Client )
+
+Terminate the client with CTRL+C ( 1st Client )
+
+Compile and execute client.cpp ( 2nd Client )
+
+Send the following query to the math server : ( 2nd Client )
+
+23 * 9
+
+Validate the result returned by the math server ( 2nd Client )
+
+3) TEST 3 ( Successful )
+
+Compile and execute server1.cpp 
+Compile and execute client.cpp ( 1st Client )
+
+Send the following query to the math server : ( 1st Client )
+
+54 / 5
+
+Validate the result returned by the math server ( 1st Client )
+
+Compile and execute client.cpp ( 2nd Client )
+
+Confirm that the connection fails ( 2nd Client )
+
+4) TEST 4 ( Successful )
+
+Compile and execute server2.cpp 
+Compile and execute client.cpp
+
+Send the following queries to the math server :
+
+64 + 12
+84 - 13
+94 * 10
+38 / 11
+
+Validate the results returned by the math server
+
+5) TEST 5 ( Successful )
+
+Compile and execute server2.cpp 
+Compile and execute client.cpp ( 1st Client )
+
+Send the following query to the math server : ( 1st Client )
+
+5 / 9
+
+Validate the result returned by the math server ( 1st Client )
+
+Compile and execute client.cpp ( 2nd Client )
+
+Send the following query to the math server : ( 2nd Client )
+
+4 * 2
+
+Validate the result returned by the math server ( 2nd Client )
+
+6) TEST 6 ( Successful )
+
+Compile and execute server2.cpp 
+Compile and execute client.cpp ( 1st Client )
+
+Send the following query to the math server : ( 1st Client )
+
+8 / 7
+
+Validate the result returned by the math server ( 1st Client )
+
+Compile and execute client.cpp ( 2nd Client )
+
+Send the following query to the math server : ( 2nd Client )
+
+44 * 32
+
+Validate the result returned by the math server ( 2nd Client )
+
+Terminate the client with CTRL+C ( 2nd Client )
+
+Send the following query to the math server : ( 1st Client )
+
+2 - 8
+
+Validate the result returned by the math server ( 1st Client )
+
+7) TEST 7 ( Successful )
+
+Compile and execute server2.cpp 
+Compile and execute client.cpp ( 1st Client )
+
+Send the following query to the math server : ( 1st Client )
+
+534 / 1223
+
+Validate the result returned by the math server ( 1st Client )
+
+Compile and execute client.cpp ( 2nd Client )
+
+Send the following query to the math server : ( 2nd Client )
+
+42 * 29
+
+Validate the result returned by the math server ( 2nd Client )
+
+Using the 'ps' command, confirm that two server processes are running for the two clients
+
+8) TEST 8 ( Successful )
+
+Compile and execute server1.cpp 
+Compile and execute client.cpp
+
+Send the following queries to the math server :
+
+-45 + 44
+342.1245 - 120395
+-14.2345 * 31.9283
+9823.123 / -19.29283
+
+Validate the results returned by the math server
+
+
+
+
+
+
+
+
+
+
+
