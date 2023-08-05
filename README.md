@@ -31,6 +31,10 @@ g++ client.cpp -o client
 
 Note :
 
-(i) The above-mentioned programs can be terminated with CTRL+C.
-(ii) The server program must be executed before executing the client program.
-(iii) Link of the video in which i've showcased the assignment : https://www.youtube.com/watch?v=8J1KEMWMXws
+(i) The above-mentioned programs can be terminated with CTRL+C. 
+
+(ii) The server program must be executed before executing the client program. 
+
+(iii) Link of the video in which i've showcased the assignment : 
+
+https://www.youtube.com/watch?v=8J1KEMWMXws
